@@ -14,4 +14,5 @@ Hey there! 👋 This is an end-to-end machine learning project that takes custom
 * Scikit-Learn
 
 ## Check It Out Live
-You can test out the live app right here: [View Live App](YOUR_STREAMLIT_LINK_HERE)
+You can test out the live app right here: [View Live App](https://airline-sentiment-dashboard-evlqfftgg4whoaugsze9mv.streamlit.app/_)
+Crafted with code, creativity and a touch of data wizardry proudly 🦚 Chioma's Art 🎨.
